@@ -28,8 +28,6 @@ The project is deployed on [Heroku](https://social-network.herokuapp.com/).
 
 1. Java 11
 
-2. In order to be able to save `Photos` you need to sign up to [Cloudinary](https://cloudinary.com/) and enter your credentials in the `application.properties` file of the Spring Boot app (`SocialNetwork\Server\src\main\resources\application.properties`)
-
 ## Start the app
 
 ### **Option 1 - Start the Client and the Server manually**
@@ -70,30 +68,6 @@ Start the Server:
 $ mvn spring-boot:run
 ```
 The Server is running on port `8000`.
-
-
-### **Option 2 - Start the application in Docker**
-
-1. **Start the application**
-
-Go to the project directory( `SocialNetwork/` ) and run:
-
-```bash
-$ docker-compose up -d
-```
-
-The front-end server will start on port `9090`. To open it enter in your browser:
-
-```bash
-$ http://localhost:9090
-```
-2. **Stop the application**
-
-You can stop the containers with:
-
- ```bash 
- $ docker-compose down
- ```
 
 ## App screenshots
 
