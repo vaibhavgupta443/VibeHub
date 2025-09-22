@@ -1,0 +1,27 @@
+# Java / Maven
+/Server/target/
+/**/target/
+/*.jar
+*.class
+*.log
+*.iml
+/.idea/
+/.vscode/
+/.mvn/
+
+# Node
+/Client/node_modules/
+/Client/build/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Env / secrets
+.env
+*.env
+Server/src/main/resources/application.properties
+
+# IDE
+/.classpath
+/.project
