@@ -1,0 +1,1 @@
+Social Network is a dynamic social media platform designed to connect people, ideas, and communities from around the world. Whether you're here to share your story, build your brand, discover trending content, or connect with like-minded individuals, our platform offers powerful tools to make it easy, engaging, and safe
